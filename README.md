@@ -11,3 +11,6 @@
 
 ### 2.4 川剧变脸
 
+## 参考：
+> dlib + 猫脸检测实现猫脸人嘴:![cat-face-with-human-mouth](https://github.com/wang-kangkang/cat-face-with-human-mouth)
+> opencv猫脸检测模型地址：![haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
