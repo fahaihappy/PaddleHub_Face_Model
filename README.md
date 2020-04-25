@@ -7,9 +7,8 @@
 
 ### 2.2 猫脸人嘴
 
-### 2.3 头部姿态估计
+### 2.3 头部姿态估计+ 川剧变脸
 
-### 2.4 川剧变脸
 
 ## 参考：
 > dlib + 猫脸检测实现猫脸人嘴：[cat-face-with-human-mouth](https://github.com/wang-kangkang/cat-face-with-human-mouth)  
